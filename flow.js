@@ -48,6 +48,6 @@ arrnum([4,6,8,9,5,9]);
     }
     return reversed;
  }
- let strings = 'morning'
+ let strings = 'monday'
  console.log(arrayOfStrings(strings));
  
